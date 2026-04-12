@@ -15,26 +15,26 @@
 
 ## 🎯 **Q1 2026: Analytics & Compliance Implementation**
 
-### **🔴 P0 - KRITIS (Wajib dalam 1 Minggu)**
+### **🔴 P0 - CRITICAL (Required within 1 Week)**
 
 #### **Week 1: Foundation Setup**
 - [ ] **Google Analytics 4 Setup**
-  - [ ] Buat GA4 Property: "Richkeyrick Portfolio"
+  - [ ] Create GA4 Property: "Richkeyrick Portfolio"
   - [ ] Generate Measurement ID: `G-XXXXXXXXXX`
-  - [ ] Implement gtag.js di `index.html`
+  - [ ] Implement gtag.js in `index.html`
   - [ ] Setup enhanced measurement (scroll, clicks, engagement)
-  - [ ] Verify data flowing di GA4 dashboard
+  - [ ] Verify data flowing in GA4 dashboard
 
 - [ ] **Cookie Consent Banner (GDPR/CCPA/LGPD)**
-  - [ ] Desain banner UI/UX
+  - [ ] Design banner UI/UX
   - [ ] Implement consent management
-  - [ ] Kategorisasi cookies (Necessary, Analytics, Functional)
+  - [ ] Cookie categorization (Necessary, Analytics, Functional)
   - [ ] Privacy Policy page
   - [ ] Cookie preference persistence
   - [ ] Cross-browser testing
 
 - [ ] **Core Web Vitals Optimization**
-  - [ ] Audit dengan PageSpeed Insights
+  - [ ] Audit with PageSpeed Insights
   - [ ] Optimize LCP (Largest Contentful Paint)
     - [ ] Preload hero image
     - [ ] Critical CSS inline
@@ -45,12 +45,12 @@
     - [ ] Remove unused JS
   - [ ] Optimize CLS (Cumulative Layout Shift)
     - [ ] Set explicit image dimensions
-    - [ ] Reserve space untuk dynamic content
+    - [ ] Reserve space for dynamic content
     - [ ] Font loading optimization
   - [ ] Test & validate improvements
 
 - [ ] **Custom 404 Page**
-  - [ ] Desain dark-themed 404 page
+  - [ ] Design dark-themed 404 page
   - [ ] Add helpful links (Home, Contact, Sitemap)
   - [ ] Fun/engaging message
   - [ ] Implement error tracking
@@ -66,13 +66,13 @@
 
 ---
 
-### **🟡 P1 - HIGH IMPACT (2-4 Minggu)**
+### **🟡 P1 - HIGH IMPACT (2-4 Weeks)**
 
 #### **Week 3-4: Email & Security**
 
 - [ ] **Email Newsletter Capture**
-  - [ ] Desain newsletter signup form
-  - [ ] Integration dengan MailerLite/Brevo
+  - [ ] Design newsletter signup form
+  - [ ] Integration with MailerLite/Brevo
   - [ ] Double opt-in confirmation
   - [ ] Welcome email automation
   - [ ] Unsubscribe mechanism
@@ -82,7 +82,7 @@
   - [ ] Review & update `netlify.toml` headers
   - [ ] Content Security Policy refinement
   - [ ] HSTS preload submission
-  - [ ] Security audit dengan Mozilla Observatory
+  - [ ] Security audit with Mozilla Observatory
   - [ ] SSL/TLS certificate check
 
 #### **Week 5-6: SEO Deep Audit**
@@ -116,7 +116,7 @@
 
 ---
 
-### **🟢 P2 - MEDIUM IMPACT (1-2 Bulan)**
+### **🟢 P2 - MEDIUM IMPACT (1-2 Months)**
 
 #### **Month 2: Accessibility & Video**
 
@@ -133,21 +133,21 @@
 - [ ] **Video Testimonials**
   - [ ] Record client testimonial videos
   - [ ] Video editing & production
-  - [ ] Optimize untuk web (WebM, MP4)
+  - [ ] Optimize for web (WebM, MP4)
   - [ ] Lazy loading implementation
   - [ ] Add video schema markup
-  - [ ] Transcript untuk accessibility
+  - [ ] Transcript for accessibility
 
 #### **Month 3: Advanced Features**
 
 - [ ] **Advanced Schema.org Markup**
   - [ ] Person schema enhancement
   - [ ] ProfessionalService schema
-  - [ ] Article schema untuk blog
+  - [ ] Article schema for blog
   - [ ] Review/Rating schema
   - [ ] FAQPage schema
   - [ ] BreadcrumbList schema
-  - [ ] Validate semua schemas
+  - [ ] Validate all schemas
 
 - [ ] **Conversion Rate Optimization (CRO)**
   - [ ] Heatmap analysis setup (Hotjar/Microsoft Clarity)
@@ -354,7 +354,7 @@
 
 | Date | Decision | Rationale | Status |
 |------|----------|-----------|--------|
-| 2026-04-12 | Prioritize P0 items | Foundation critical untuk data | ✅ Approved |
+| 2026-04-12 | Prioritize P0 items | Foundation critical for data | ✅ Approved |
 | 2026-04-12 | GA4 over alternatives | Industry standard, free, powerful | ✅ Approved |
 | 2026-04-12 | Cookie Consent required | Legal compliance mandatory | ✅ Approved |
 | 2026-04-12 | Netlify hosting | Cost-effective, fast, secure | ✅ Approved |
