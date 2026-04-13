@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- SEO-Optimized Header Banner -->
-<img src="./assets/banner-portfolio.jpg" alt="Richkeyrick Portfolio - AI Engineer & Full-Stack Developer" width="100%">
+<img src="./assets/banner-portfolio.webp" alt="Richkeyrick Portfolio - AI Engineer & Full-Stack Developer" width="100%">
 
 <!-- Dynamic Title with Typing Effect Description -->
 <h1>

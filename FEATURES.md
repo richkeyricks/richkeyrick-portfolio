@@ -5,31 +5,31 @@
 <div align="center">
 
 ### **🎨 Hero Section**
-<img src="./assets/screenshots/hero-section.jpg" alt="Hero Section - Richkeyrick Portfolio" width="100%">
+<img src="./assets/hero-section.webp" alt="Hero Section - Richkeyrick Portfolio" width="100%">
 *Immersive hero dengan animated gradient dan typing effect*
 
 ---
 
 ### **👤 Profile Section**
-<img src="./assets/screenshots/profile-section.jpg" alt="Profile Section" width="100%">
+<img src="./assets/profile-section.webp" alt="Profile Section" width="100%">
 *Professional profile dengan credibility metrics dan achievements*
 
 ---
 
 ### **💼 Portfolio Showcase**
-<img src="./assets/screenshots/portfolio-section.jpg" alt="Portfolio Section" width="100%">
+<img src="./assets/portfolio-section.webp" alt="Portfolio Section" width="100%">
 *Interactive project cards dengan hover effects dan detail modal*
 
 ---
 
 ### **🤖 AI Technologies**
-<img src="./assets/screenshots/ai-section.jpg" alt="AI Technologies Section" width="100%">
+<img src="./assets/ai-section.webp" alt="AI Technologies Section" width="100%">
 *Showcase AI ecosystem dengan animated icons*
 
 ---
 
 ### **📱 Mobile Responsive**
-<img src="./assets/screenshots/mobile-view.jpg" alt="Mobile Responsive Design" width="40%">
+<img src="./assets/mobile-view.webp" alt="Mobile Responsive Design" width="40%">
 *Perfect responsive design untuk semua devices*
 
 </div>
