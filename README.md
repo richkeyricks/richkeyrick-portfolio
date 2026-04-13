@@ -390,6 +390,22 @@ Richkeyrick envisions **Era Cahaya** — a civilization where:
 
 ---
 
+## 🎮 **GitHub Contribution Visualization**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/richkeyricks/richkeyricks/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/richkeyricks">
+    <img src="https://github.com/richkeyricks/github-stats/blob/main/generated/overview.svg" alt="GitHub 3D Contribution" />
+  </a>
+</p>
+
+> ⚠️ **Note:** These animations require GitHub Actions setup. The snake animation generates daily based on your contribution graph.
+
+---
+
 ## 🛠️ **Development Roadmap**
 
 ### **Q1-Q2 2026: Portfolio Enhancement**
