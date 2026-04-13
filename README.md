@@ -149,7 +149,7 @@
 |---------|-------------|------------|----------|
 | **HAINEO AI** | Super-app AI Platform - "Digital Brain of Indonesia" with NEO AI Search Engine, integrated LLM, voice synthesis, computer vision, real-time location analysis | FastAPI, React, PostgreSQL, Redis, TensorFlow | [🌐 haineo.com](https://www.haineo.com) |
 | **Human AI (HAI)** | Digital Human Cloning Platform with Realistic AI, AGI, ASI. Clone face, voice, character from 1 photo or 1-minute video | Python, PyTorch, OpenCV, Neural Audio | [👤 haineo.com/hai](https://www.haineo.com/hai) |
-| **Analisa Wajah AI** | AI face skin analysis with 52+ dermatological parameters, AI Doctor consultation, Digital E-Prescription, 96% accuracy | AI Vision Engine, Deep Learning, Biometric Analysis | [👁️ analisa-wajah.netlify.app](https://analisa-wajah.netlify.app/) |
+| **Face Analysis AI** | AI face skin analysis with 52+ dermatological parameters, AI Doctor consultation, Digital E-Prescription, 96% accuracy | AI Vision Engine, Deep Learning, Biometric Analysis | [👁️ analisa-wajah.netlify.app](https://analisa-wajah.netlify.app/) |
 
 #### **🎨 Creative & Media AI**
 
@@ -345,7 +345,7 @@ Most advanced platform for digital human cloning:
 | **Haineo OS** | 🖼️ AI Image Generation | Text-to-image, editing, merge & expand with 20 free credits/day | ✅ Live |
 | **Creator AI+** | 🎨 AI Art Studio | Photorealistic AI image generator for creators | ✅ Live |
 | **AI Mixing Mastering** | 🎵 Audio AI | Professional audio mixing & mastering powered by deep learning | ✅ Live |
-| **Analisa Wajah AI** | 🔬 Computer Vision | AI-based skin analysis with 52+ dermatological parameters | ✅ Live |
+| **Face Analysis AI** | 🔬 Computer Vision | AI-based skin analysis with 52+ dermatological parameters | ✅ Live |
 | **DesainCreative** | 🎨 Creative Platform | Visual design, branding, and creative services solutions | ✅ Live |
 
 ---
@@ -510,7 +510,7 @@ Richkeyrick envisions **Era Cahaya** — a civilization where:
 - 👥 **1.2M+ Followers** across multiple platforms
 - 🌏 **190+ Countries** reach & engagement
 - 🎥 **AI Educational Videos:** Tutorials, explainers, demos
-- 📱 **AI-Indonesia Community:** 150K+ active members
+- 📱 **AI Indonesia Community:** 150K+ active members
 
 ### **Open Source Contribution**
 - 💻 **GitHub:** Active contributor, public repositories
