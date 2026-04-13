@@ -390,20 +390,6 @@ Richkeyrick envisions **Era Cahaya** — a civilization where:
 
 ---
 
-## 🎮 **GitHub Activity Visualization**
-
-<p align="center">
-  <img src="https://github-contributions-api.deno.dev/richkeyricks.svg" alt="GitHub Contributions" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔥_Current_Streak-1_days-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="Streak"/>
-  <img src="https://img.shields.io/badge/📅_Longest_Streak-3_days-00D4FF?style=for-the-badge&labelColor=1a1a2e" alt="Longest Streak"/>
-  <img src="https://img.shields.io/badge/📊_Total_Contributions-43-00FF88?style=for-the-badge&labelColor=1a1a2e" alt="Total Contributions"/>
-</p>
-
----
-
 ## 🛠️ **Development Roadmap**
 
 ### **Q1-Q2 2026: Portfolio Enhancement**
