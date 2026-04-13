@@ -375,15 +375,12 @@ Richkeyrick envisions **Era Cahaya** — a civilization where:
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richkeyricks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=FF6B6B" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=richkeyricks&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&hide=issues" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richkeyricks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=richkeyricks&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=FF6B6B&fire=FFD700&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  <img src="https://github-contributions-api.deno.dev/richkeyricks.svg" alt="GitHub Contributions" />
 </p>
 
 ---
