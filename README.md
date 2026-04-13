@@ -735,7 +735,7 @@ React, Next.js, FastAPI, PostgreSQL, Redis, TensorFlow, PyTorch, and many more.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=richkeyricks&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/👁️_Profile_Views-10K+-00D4FF?style=for-the-badge&labelColor=1a1a2e&color=00D4FF" alt="Profile Views"/>
 </p>
 
 **Made with ❤️ and 🤖 by Richkeyrick | Jakarta, Indonesia | 2026**
