@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Richkeyrick | AI Engineer & Full-Stack Developer Portfolio</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Elite AI Engineer & Full-Stack Developer with 60+ AI applications, 1.2M+ followers, serving 190+ countries. Expert in LLM integration, React, Python, and AI systems.">
+    <meta name="keywords" content="AI Engineer, Full-Stack Developer, LLM Integration, React, Python, Portfolio, HAINEO AI, Indonesia, Machine Learning, Deep Learning">
+    <meta name="author" content="Richkeyrick (T. Ricky Husny)">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://richkeyricks.github.io/richkeyrick-portfolio/">
+    <meta property="og:title" content="Richkeyrick | AI Engineer & Full-Stack Developer">
+    <meta property="og:description" content="Elite AI Engineer & Full-Stack Developer with 60+ AI applications, 1.2M+ followers. Building the future of AI.">
+    <meta property="og:image" content="https://raw.githubusercontent.com/richkeyricks/richkeyrick-portfolio/main/assets/banner-portfolio2.webp">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:site_name" content="Richkeyrick Portfolio">
+    <meta property="og:locale" content="en_US">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://richkeyricks.github.io/richkeyrick-portfolio/">
+    <meta property="twitter:title" content="Richkeyrick | AI Engineer & Full-Stack Developer">
+    <meta property="twitter:description" content="Elite AI Engineer & Full-Stack Developer with 60+ AI applications, 1.2M+ followers. Building the future of AI.">
+    <meta property="twitter:image" content="https://raw.githubusercontent.com/richkeyricks/richkeyrick-portfolio/main/assets/banner-portfolio2.webp">
+    <meta property="twitter:creator" content="@richkeyrick">
+    
+    <!-- WhatsApp -->
+    <meta property="og:image:secure_url" content="https://raw.githubusercontent.com/richkeyricks/richkeyrick-portfolio/main/assets/banner-portfolio2.webp">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/webp" href="./assets/banner-portfolio2.webp">
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://richkeyricks.github.io/richkeyrick-portfolio/">
+    
+    <!-- Redirect ke portfolio utama -->
+    <meta http-equiv="refresh" content="3; url=https://richkeyrick.com">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 50%, #16213e 100%);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: #ffffff;
+            text-align: center;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            animation: fadeIn 1s ease-out;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .logo {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            margin-bottom: 30px;
+            border: 4px solid #00D4FF;
+            box-shadow: 0 0 30px rgba(0, 212, 255, 0.5);
+        }
+        
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            background: linear-gradient(135deg, #00D4FF, #FF6B6B);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        
+        .tagline {
+            font-size: 1.2rem;
+            color: #888;
+            margin-bottom: 30px;
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+        
+        .stat {
+            text-align: center;
+        }
+        
+        .stat-number {
+            font-size: 2rem;
+            font-weight: bold;
+            color: #00D4FF;
+        }
+        
+        .stat-label {
+            font-size: 0.9rem;
+            color: #888;
+        }
+        
+        .buttons {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin-top: 30px;
+        }
+        
+        .btn {
+            padding: 12px 30px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, #00D4FF, #00a8cc);
+            color: #000;
+        }
+        
+        .btn-primary:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 30px rgba(0, 212, 255, 0.4);
+        }
+        
+        .btn-secondary {
+            background: transparent;
+            border: 2px solid #FF6B6B;
+            color: #FF6B6B;
+        }
+        
+        .btn-secondary:hover {
+            background: #FF6B6B;
+            color: #000;
+        }
+        
+        .redirect-notice {
+            margin-top: 40px;
+            padding: 15px 25px;
+            background: rgba(0, 212, 255, 0.1);
+            border: 1px solid rgba(0, 212, 255, 0.3);
+            border-radius: 10px;
+            font-size: 0.9rem;
+            color: #00D4FF;
+        }
+        
+        .loading {
+            margin-top: 20px;
+        }
+        
+        .spinner {
+            border: 3px solid rgba(0, 212, 255, 0.3);
+            border-top: 3px solid #00D4FF;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 15px;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        @media (max-width: 600px) {
+            h1 { font-size: 1.8rem; }
+            .stats { gap: 20px; }
+            .stat-number { font-size: 1.5rem; }
+            .buttons { flex-direction: column; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="./assets/banner-portfolio2.webp" alt="Richkeyrick" class="logo">
+        
+        <h1>Richkeyrick</h1>
+        <p class="tagline">AI Engineer & Full-Stack Developer</p>
+        
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-number">60+</div>
+                <div class="stat-label">AI Apps</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">1.2M+</div>
+                <div class="stat-label">Followers</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">190+</div>
+                <div class="stat-label">Countries</div>
+            </div>
+            <div class="stat">
+                <div class="stat-number">25+</div>
+                <div class="stat-label">Years Exp</div>
+            </div>
+        </div>
+        
+        <div class="buttons">
+            <a href="https://richkeyrick.com" class="btn btn-primary">
+                🌐 Visit Portfolio
+            </a>
+            <a href="https://github.com/richkeyricks" class="btn btn-secondary">
+                ⭐ GitHub Profile
+            </a>
+        </div>
+        
+        <div class="redirect-notice">
+            <div class="loading">
+                <div class="spinner"></div>
+                <p>Redirecting to richkeyrick.com...</p>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Richkeyrick",
+        "alternateName": "T. Ricky Husny",
+        "description": "Elite AI Engineer & Full-Stack Developer with 60+ AI applications",
+        "url": "https://richkeyricks.github.io/richkeyrick-portfolio/",
+        "sameAs": [
+            "https://richkeyrick.com",
+            "https://github.com/richkeyricks",
+            "https://linkedin.com/in/richkeyrick",
+            "https://instagram.com/richkeyrick",
+            "https://youtube.com/@richkeyrick"
+        ],
+        "jobTitle": "AI Engineer & Full-Stack Developer",
+        "worksFor": {
+            "@type": "Organization",
+            "name": "HAINEO AI"
+        },
+        "knowsAbout": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Full-Stack Development",
+            "LLM Integration",
+            "React",
+            "Python"
+        ]
+    }
+    </script>
+</body>
+</html>
