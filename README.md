@@ -372,15 +372,20 @@ Richkeyrick envisions **Era Cahaya** — a civilization where:
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Activity**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richkeyricks&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&hide=issues" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richkeyricks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
+  <a href="https://github.com/richkeyricks">
+    <img src="https://img.shields.io/badge/📁_Repositories-43+-00D4FF?style=for-the-badge&labelColor=1a1a2e" alt="43+ Repositories"/>
+  </a>
+  <img src="https://img.shields.io/badge/⭐_Total_Stars-Coming_Soon-FFD700?style=for-the-badge&labelColor=1a1a2e" alt="Stars"/>
+  <img src="https://img.shields.io/badge/📝_Commits-Active-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="Active Commits"/>
 </p>
 
 <p align="center">
-  <img src="https://github-contributions-api.deno.dev/richkeyricks.svg" alt="GitHub Contributions" />
+  <img src="https://img.shields.io/badge/🔀_Pull_Requests-Open-00FF88?style=for-the-badge&labelColor=1a1a2e" alt="Pull Requests"/>
+  <img src="https://img.shields.io/badge/🐛_Issues-Tracked-9146FF?style=for-the-badge&labelColor=1a1a2e" alt="Issues"/>
+  <img src="https://img.shields.io/badge/🌍_Contributions-Global-2ED573?style=for-the-badge&labelColor=1a1a2e" alt="Contributions"/>
 </p>
 
 ---
