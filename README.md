@@ -1,7 +1,10 @@
 <div align="center">
 
-<!-- SEO-Optimized Header Banner -->
-<img src="./assets/banner-portfolio.webp" alt="Richkeyrick Portfolio - AI Engineer & Full-Stack Developer" width="100%">
+<!-- Main Header Banner -->
+<img src="./assets/banner-portfolio2.webp" alt="Richkeyrick Portfolio - AI Engineer & Full-Stack Developer" width="100%">
+
+<!-- Secondary Banner -->
+<img src="./assets/banner-portfolio.webp" alt="Richkeyrick AI System - Automation Intelligence Future Tech" width="100%">
 
 <!-- Dynamic Title with Typing Effect Description -->
 <h1>
