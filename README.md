@@ -393,11 +393,7 @@ Richkeyrick envisions **Era Cahaya** — a civilization where:
 ## 🎮 **GitHub Activity Visualization**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richkeyricks&theme=react-dark&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFD700&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=richkeyricks&theme=darkhub&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richkeyricks&theme=chartreuse-dark&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B&hide_border=true&area=true" alt="GitHub Activity Graph" width="100%"/>
 </p>
 
 ---
