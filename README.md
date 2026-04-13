@@ -139,7 +139,7 @@
 
 ### **📱 Mobile Responsive**
 <p align="center">
-  <img src="./assets/mobile.webp" alt="Mobile Responsive Design" width="80%">
+  <img src="./assets/mobile.webp" alt="Mobile Responsive Design" width="100%">
 </p>
 
 <p align="center"><i>Perfect responsive design for all devices</i></p>
