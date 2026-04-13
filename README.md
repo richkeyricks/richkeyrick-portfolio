@@ -415,6 +415,26 @@ DevOps & CI/CD           ██████████████████�
 - 🤖 **AI Integration:** AI-assisted composition, neural audio processing
 - 🎛️ **Studio:** Professional mixing & mastering with AI enhancement
 
+#### **🎧 Now Playing**
+
+<p align="center">
+  <a href="https://open.spotify.com/artist/richkeyrick" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/spotify-playing?uid=richkeyrick&cover_image=true&theme=default&show_offline=false&background_color=0D1117&interchange=false&bar_color=00D4FF&bar_color_cover=false" alt="Spotify Now Playing" width="50%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/artist/richkeyrick" target="_blank">
+    <img src="https://img.shields.io/badge/🎵_Listen_on_Spotify-Richkeyrick-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+  <a href="https://music.apple.com/artist/richkeyrick" target="_blank">
+    <img src="https://img.shields.io/badge/🍎_Apple_Music-Richkeyrick-FA243C?style=for-the-badge&logo=apple-music&logoColor=white" alt="Apple Music"/>
+  </a>
+  <a href="https://music.youtube.com/channel/richkeyrick" target="_blank">
+    <img src="https://img.shields.io/badge/▶️_YouTube_Music-Richkeyrick-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music"/>
+  </a>
+</p>
+
 ---
 
 ### **📈 SEO & Content Engineering**
