@@ -90,6 +90,14 @@
   <img src="https://img.shields.io/badge/🎯_FOCUS-AI_&_FULL--STACK-00D4FF?style=for-the-badge&labelColor=1a1a2e" alt="Focus"/>
 </p>
 
+<!-- ════════════════════════════════════════════════════════════ -->
+<!-- 👀 VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=richkeyricks&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/richkeyricks?style=for-the-badge&color=FF6B6B&labelColor=1a1a2e&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/badge/⭐_Stars-65+-FFD700?style=for-the-badge&labelColor=1a1a2e" alt="Total Stars"/>
+</p>
+
 </div>
 
 ---
@@ -97,6 +105,13 @@
 ## 🎯 **Executive Summary**
 
 **Richkeyrick** is a visionary **AI Engineer & Full-Stack Developer** who combines expertise in artificial intelligence, software development, SEO engineering, and music production to create transformative technology solutions.
+
+### 📝 **Latest Insights**
+
+> 🔥 *Building the future of AI, one commit at a time.* Check out my latest articles and technical deep-dives:
+> - **[The Future of AGI in Southeast Asia](https://richkeyrick.com)** - Exploring AI democratization
+> - **[Building Production-Ready LLM Systems](https://richkeyrick.com)** - Architecture & best practices
+> - **[AI-Powered SEO: Beyond Keywords](https://richkeyrick.com)** - Next-gen content optimization
 
 ### 🏆 **Key Achievements**
 
@@ -278,6 +293,22 @@ DevOps & CI/CD           ██████████████████�
 - 📱 **Mobile SEO:** AMP, responsive design, mobile-first indexing
 - 🌐 **International SEO:** Hreflang, geo-targeting, multi-language
 - 🤖 **AI-SEO:** Automated optimization, content generation
+
+---
+
+## 🛠️ **Tech Stack & Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,tensorflow,pytorch,postgresql,redis,docker,aws,gcp,vercel,git,github,vscode&perline=9" alt="Tech Stack Icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+</p>
 
 ---
 
