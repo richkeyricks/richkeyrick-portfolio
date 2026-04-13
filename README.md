@@ -14,70 +14,77 @@
   <em>AI Specialist • Full-Stack Developer • SEO Engineer • Music Producer • Visionary Technologist</em>
 </p>
 
-<!-- Social Media & Platform Badges -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!-- 📇 CONNECT WITH ME -->
 <p align="center">
   <a href="https://richkeyrick.com" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Website-richkeyrick.com-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/🌐_WEBSITE-RICHKEYRICK.COM-00D4FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="mailto:info@richkeyrick.com">
-    <img src="https://img.shields.io/badge/📧_Email-info@richkeyrick.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/📧_EMAIL-INFO@RICHKEYRICK.COM-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://wa.me/6285260113313" target="_blank">
-    <img src="https://img.shields.io/badge/💬_WhatsApp-+62_852_6011_3313-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.shields.io/badge/💬_WHATSAPP-+62_852_6011_3313-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
-<!-- Social Media Follow Cards -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!-- 📱 SOCIAL MEDIA -->
 <p align="center">
   <a href="https://instagram.com/richkeyrick" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@richkeyrick-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/INSTAGRAM-@RICHKEYRICK-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://tiktok.com/@richkeyrick" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-@richkeyrick-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+    <img src="https://img.shields.io/badge/TIKTOK-@RICHKEYRICK-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
   <a href="https://youtube.com/@richkeyrick" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-@richkeyrick-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YOUTUBE-@RICHKEYRICK-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   <a href="https://twitter.com/richkeyrick" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@richkeyrick-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://img.shields.io/badge/TWITTER-@RICHKEYRICK-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
+</p>
+<p align="center">
   <a href="https://linkedin.com/in/richkeyrick" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Richkeyrick-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-RICHKEYRICK-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/richkeyricks" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@richkeyricks-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-@RICHKEYRICKS-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://open.spotify.com/artist/richkeyrick" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Richkeyrick-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+    <img src="https://img.shields.io/badge/SPOTIFY-RICHKEYRICK-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"/>
   </a>
   <a href="https://twitch.tv/richkeyrick" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-Richkeyrick-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+    <img src="https://img.shields.io/badge/TWITCH-RICHKEYRICK-9146FF?style=flat-square&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
 </p>
 
-<!-- Tech Stack & Achievement Badges -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!-- 🎯 CORE EXPERTISE -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖_AI_Engineer-Advanced-FF6B00?style=for-the-badge" alt="AI Engineer"/>
-  <img src="https://img.shields.io/badge/💻_Full--Stack_Dev-Expert-00D4FF?style=for-the-badge" alt="Full-Stack"/>
-  <img src="https://img.shields.io/badge/📈_SEO_Specialist-Professional-00FF88?style=for-the-badge" alt="SEO Specialist"/>
-  <img src="https://img.shields.io/badge/🎵_Music_Producer-Verified-FF00FF?style=for-the-badge" alt="Music Producer"/>
+  <img src="https://img.shields.io/badge/🤖_AI_ENGINEER-ADVANCED-FF6B00?style=for-the-badge&labelColor=1a1a2e" alt="AI Engineer"/>
+  <img src="https://img.shields.io/badge/💻_FULL--STACK_DEV-EXPERT-00D4FF?style=for-the-badge&labelColor=1a1a2e" alt="Full-Stack"/>
+  <img src="https://img.shields.io/badge/📈_SEO_SPECIALIST-PROFESSIONAL-00FF88?style=for-the-badge&labelColor=1a1a2e" alt="SEO Specialist"/>
+  <img src="https://img.shields.io/badge/🎵_MUSIC_PRODUCER-VERIFIED-FF00FF?style=for-the-badge&labelColor=1a1a2e" alt="Music Producer"/>
 </p>
 
-<!-- Stats & Metrics -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!-- 📊 IMPACT METRICS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/📊_Projects-60%2B_AI_Apps-FFD700?style=for-the-badge" alt="60+ Projects"/>
-  <img src="https://img.shields.io/badge/👥_Followers-1.2M%2B_Global-FF4757?style=for-the-badge" alt="1.2M+ Followers"/>
-  <img src="https://img.shields.io/badge/🌍_Reach-190%2B_Countries-2ED573?style=for-the-badge" alt="190+ Countries"/>
-  <img src="https://img.shields.io/badge/⏱️_Experience-25%2B_Years-3742FA?style=for-the-badge" alt="25+ Years"/>
+  <img src="https://img.shields.io/badge/📊_60+_PROJECTS-AI_APPLICATIONS-FFD700?style=for-the-badge&labelColor=1a1a2e" alt="60+ Projects"/>
+  <img src="https://img.shields.io/badge/👥_1.2M+_FOLLOWERS-GLOBAL-FF4757?style=for-the-badge&labelColor=1a1a2e" alt="1.2M+ Followers"/>
+  <img src="https://img.shields.io/badge/🌍_190+_COUNTRIES-REACH-2ED573?style=for-the-badge&labelColor=1a1a2e" alt="190+ Countries"/>
+  <img src="https://img.shields.io/badge/⏱️_25+_YEARS-EXPERIENCE-3742FA?style=for-the-badge&labelColor=1a1a2e" alt="25+ Years"/>
 </p>
 
-<!-- Availability Badge -->
+<!-- ════════════════════════════════════════════════════════════ -->
+<!-- 💼 AVAILABILITY & STATUS -->
 <p align="center">
   <a href="#contact">
-    <img src="https://img.shields.io/badge/💼_Status-Open_to_Collaboration-00FF88?style=for-the-badge" alt="Open for Collaboration"/>
+    <img src="https://img.shields.io/badge/💼_OPEN_FOR-COLLABORATION-00FF88?style=for-the-badge&logo=handshake&logoColor=white" alt="Open for Collaboration"/>
   </a>
-  <img src="https://img.shields.io/badge/🌐_Location-Jakarta_Indonesia-FF6B6B?style=for-the-badge" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎯_Focus-AI_%26_Full--Stack-00D4FF?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/🌐_LOCATION-JAKARTA_INDONESIA-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="Location"/>
+  <img src="https://img.shields.io/badge/🎯_FOCUS-AI_&_FULL--STACK-00D4FF?style=for-the-badge&labelColor=1a1a2e" alt="Focus"/>
 </p>
 
 </div>
