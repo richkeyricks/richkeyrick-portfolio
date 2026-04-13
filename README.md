@@ -608,6 +608,252 @@ Richkeyrick envisions **Era Cahaya** — a civilization where:
 
 ---
 
+## 🏗️ **System Architecture & Data Flow**
+
+> *Enterprise-grade infrastructure powering HAINEO AI ecosystem*
+
+### **HAINEO AI Microservices Architecture**
+
+```mermaid
+graph TB
+    subgraph "🌐 Client Layer"
+        A1[📱 Mobile Apps]
+        A2[💻 Web Dashboard]
+        A3[🔌 API Clients]
+    end
+    
+    subgraph "🛡️ Edge Layer"
+        B1[Cloudflare CDN]
+        B2[AWS CloudFront]
+        B3[DDoS Protection]
+    end
+    
+    subgraph "🔀 API Gateway Layer"
+        C1[HAINEO API Gateway]
+        C2[Rate Limiter<br/>Redis-based]
+        C3[Auth Service<br/>JWT/OAuth2]
+        C4[Load Balancer<br/>NGINX]
+    end
+    
+    subgraph "⚡ Microservices Layer"
+        D1[User Service<br/>Node.js]
+        D2[AI Core Service<br/>Python/FastAPI]
+        D3[Search Engine<br/>Elasticsearch]
+        D4[Analytics Service<br/>Go]
+        D5[Notification Service<br/>Node.js]
+        D6[Media Processing<br/>Python]
+    end
+    
+    subgraph "🧠 AI Model Layer"
+        E1[LLM Engine<br/>GPT/Claude]
+        E2[Vision AI<br/>TensorFlow]
+        E3[Audio AI<br/>PyTorch]
+        E4[Embedding Model<br/>HuggingFace]
+        E5[Fine-tuned Models<br/>Custom]
+    end
+    
+    subgraph "💾 Data Layer"
+        F1[(PostgreSQL<br/>Primary)]
+        F2[(Redis<br/>Cache)]
+        F3[(MongoDB<br/>NoSQL)]
+        F4[(S3/Cloudflare R2<br/>Object Storage)]
+        F5[(Pinecone<br/>Vector DB)]
+    end
+    
+    subgraph "🔗 Integration Layer"
+        G1[OpenAI API]
+        G2[Anthropic API]
+        G3[Google Gemini]
+        G4[Payment Gateway<br/>Stripe]
+        G5[Email Service<br/>SendGrid]
+        G6[SMS Gateway]
+    end
+    
+    A1 --> B1
+    A2 --> B1
+    A3 --> B2
+    B1 --> C1
+    B2 --> C1
+    C1 --> C2
+    C2 --> C3
+    C3 --> C4
+    C4 --> D1
+    C4 --> D2
+    C4 --> D3
+    C4 --> D4
+    C4 --> D5
+    C4 --> D6
+    D2 --> E1
+    D2 --> E2
+    D2 --> E3
+    D2 --> E4
+    D2 --> E5
+    D1 --> F1
+    D2 --> F2
+    D3 --> F3
+    D4 --> F1
+    D5 --> F4
+    D6 --> F4
+    D2 --> G1
+    D2 --> G2
+    D2 --> G3
+    D1 --> G4
+    D5 --> G5
+    D5 --> G6
+```
+
+### **AI Request Processing Pipeline**
+
+```mermaid
+flowchart LR
+    A[👤 User Request] --> B{🔐 Auth Check}
+    B -->|❌ Invalid| C[🚫 401 Unauthorized]
+    B -->|✅ Valid| D{⚡ Rate Limit}
+    D -->|❌ Exceeded| E[⏳ 429 Too Many Requests]
+    D -->|✅ Pass| F[📝 Request Validation]
+    F -->|❌ Invalid| G[❌ 400 Bad Request]
+    F -->|✅ Valid| H{🤖 Request Type}
+    
+    H -->|💬 Chat| I[💭 Context Retrieval<br/>Vector Search]
+    H -->|🖼️ Image| J[🎨 Vision Preprocessing<br/>Resize/Normalize]
+    H -->|🎵 Audio| K[🎤 Audio Pipeline<br/>STT Processing]
+    
+    I --> L[🧠 Model Selection]
+    J --> L
+    K --> L
+    
+    L -->|🤖 GPT-4| M[⚡ Inference<br/>~500ms]
+    L -->|🤖 Claude| N[⚡ Inference<br/>~800ms]
+    L -->|🎨 DALL-E| O[⚡ Generation<br/>~3s]
+    L -->|🎨 Stable Diffusion| P[⚡ Generation<br/>~2s]
+    
+    M --> Q[🔄 Post Processing]
+    N --> Q
+    O --> Q
+    P --> Q
+    
+    Q --> R[(💾 Response Caching<br/>Redis)]
+    Q --> S[📊 Analytics Logging]
+    Q --> T[(📋 Audit Trail<br/>PostgreSQL)]
+    Q --> U[✅ Response to User]
+    
+    S --> V[📈 Real-time Metrics<br/>Grafana]
+    
+    style A fill:#00D4FF,color:#000
+    style U fill:#00FF88,color:#000
+    style C fill:#FF6B6B,color:#fff
+    style E fill:#FF6B6B,color:#fff
+    style G fill:#FF6B6B,color:#fff
+```
+
+### **Multi-Modal AI Integration Matrix**
+
+```mermaid
+graph LR
+    subgraph "📥 Input Processing"
+        A1[🎤 Speech Input]
+        A2[🖼️ Image Input]
+        A3[📝 Text Input]
+        A4[📄 Document Input]
+    end
+    
+    subgraph "🔄 Preprocessing Engine"
+        B1[🗣️ Whisper STT]
+        B2[👁️ CLIP Vision]
+        B3[🔤 Tokenizer]
+        B4[📊 OCR Engine]
+    end
+    
+    subgraph "🧠 Core Intelligence"
+        C1[🧩 Embedding Layer]
+        C2{🤖 Model Router}
+        C3[(🗄️ Vector DB<br/>Knowledge)]
+        C4[(📚 Context Cache)]
+    end
+    
+    subgraph "⚡ Model Execution"
+        D1[💬 GPT-4 Turbo]
+        D2[💭 Claude 3 Opus]
+        D3[🎨 DALL-E 3]
+        D4[🎭 Stable Diffusion]
+        D5[🎵 Audio LD3]
+    end
+    
+    subgraph "📤 Output Synthesis"
+        E1[📝 Text Response]
+        E2[🖼️ Generated Image]
+        E3[🎙️ TTS Voice]
+        E4[📊 Structured Data]
+    end
+    
+    A1 --> B1
+    A2 --> B2
+    A3 --> B3
+    A4 --> B4
+    
+    B1 --> C1
+    B2 --> C1
+    B3 --> C1
+    B4 --> C1
+    
+    C1 --> C3
+    C3 --> C2
+    C2 --> C4
+    C4 --> D1
+    C4 --> D2
+    C4 --> D3
+    C4 --> D4
+    C4 --> D5
+    
+    D1 --> E1
+    D2 --> E1
+    D3 --> E2
+    D4 --> E2
+    D5 --> E3
+    D1 --> E4
+    D2 --> E4
+```
+
+### **Data Flow & Security Architecture**
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant U as 👤 User
+    participant E as 🛡️ Edge/WAF
+    participant G as 🔀 API Gateway
+    participant A as ⚡ Auth Service
+    participant S as 🧠 AI Service
+    participant M as 🤖 AI Model
+    participant C as 💾 Cache Layer
+    participant D as 🗄️ Database
+    participant L as 📊 Logger
+    
+    U->>E: HTTPS Request
+    E->>E: DDoS/Threat Check
+    E->>G: Forward Request
+    G->>A: Validate Token
+    A->>A: JWT Verification
+    A-->>G: Token Valid
+    G->>G: Rate Limit Check
+    G->>S: Route Request
+    S->>C: Check Cache
+    alt Cache Hit
+        C-->>S: Cached Response
+    else Cache Miss
+        S->>M: API Call
+        M-->>S: AI Response
+        S->>C: Store Cache
+        S->>D: Persist Data
+    end
+    S->>L: Log Event
+    S-->>G: Processed Response
+    G-->>E: JSON Response
+    E-->>U: Final Output
+```
+
+---
+
 ## 🛠️ **Development Roadmap**
 
 ### **Q1-Q2 2026: Portfolio Enhancement**
