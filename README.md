@@ -495,13 +495,29 @@ While the core source code is proprietary, we welcome:
 
 ## 🙏 **Acknowledgments**
 
-### **Technology Partners**
-- 🤖 **Google AI** - Gemini, Vertex AI
-- 🌐 **HuggingFace** - Model hosting & inference
-- ☁️ **Cloudflare** - Edge computing & security
-- 🗄️ **Supabase** - Database & backend services
-- 🚀 **Netlify** - Deployment & hosting
-- 🎨 **Vercel** - Frontend deployment
+### **Technology Partners (World-Class AI & Cloud)**
+
+#### **🤖 AI Platforms & LLM Providers**
+- 🤖 **OpenAI** - GPT-4, GPT-4o, DALL-E, Whisper, Codex
+- 🧠 **Google AI** - Gemini, Vertex AI, TPUs
+- 📊 **Anthropic** - Claude AI, Constitutional AI
+- 🦙 **Meta AI** - LLaMA, Llama 2, Llama 3
+- 🐼 **Alibaba Cloud** - Qwen, Tongyi Qianwen
+- 🔍 **DeepSeek** - DeepSeek-V2, DeepSeek-Coder
+- 🌐 **HuggingFace** - Model hosting, inference, datasets
+- 🎨 **Stability AI** - Stable Diffusion, image generation
+- 📝 **Cohere** - Command, Embed, multilingual LLMs
+- 🧬 **AI21 Labs** - Jurassic, Wordtune
+
+#### **☁️ Cloud & Infrastructure**
+- ☁️ **Oracle Cloud** - Oracle Cloud Infrastructure, Database
+- 🔷 **Microsoft Azure** - Azure AI, Cognitive Services
+- 🟧 **AWS** - Amazon Bedrock, SageMaker, EC2
+- 🟢 **NVIDIA** - CUDA, TensorRT, A100/H100 GPUs
+- 🌐 **Cloudflare** - Edge computing, security, CDN
+- 🗄️ **Supabase** - PostgreSQL, backend services
+- 🚀 **Netlify** - Deployment, hosting, edge functions
+- 🎨 **Vercel** - Frontend deployment, Next.js
 
 ### **Open Source Community**
 Thanks to the incredible open source projects that power our ecosystem:
