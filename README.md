@@ -305,7 +305,7 @@
 <tr>
 <td width="50%">
 
-#### **HAINEO AI (AI INDONESIA)**
+#### **HAINEO AI**
 🤖 **Super-app AI Platform**
 
 Unified AI platform as the "digital brain of Indonesia" that integrates:
