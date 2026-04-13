@@ -467,7 +467,7 @@ DevOps & CI/CD           ██████████████████�
 
 <p align="center">
   <a href="https://github.com/richkeyricks/richkeyrick-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=richkeyricks&repo=richkeyrick-portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B" alt="Portfolio Repo"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=richkeyricks&repo=richkeyrick-portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&border_radius=10" alt="Portfolio Repo"/>
   </a>
 </p>
 
@@ -585,8 +585,8 @@ Richkeyrick envisions **Era Cahaya** — a civilization where:
 ### 📈 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=richkeyricks&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF&rank_icon=percentile" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richkeyricks&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=richkeyricks&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF&rank_icon=percentile&border_radius=10" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=richkeyricks&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8&border_radius=10" alt="Top Languages" width="48%"/>
 </p>
 
 ---
