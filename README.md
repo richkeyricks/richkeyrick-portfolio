@@ -392,17 +392,13 @@ Richkeyrick envisions **Era Cahaya** — a civilization where:
 
 ## 🎮 **GitHub Contribution Visualization**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/richkeyricks/richkeyricks/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/richkeyricks/richkeyrick-portfolio/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/richkeyricks/richkeyrick-portfolio/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/richkeyricks/richkeyrick-portfolio/output/github-contribution-grid-snake.svg">
+</picture>
 
-<p align="center">
-  <a href="https://github.com/richkeyricks">
-    <img src="https://github.com/richkeyricks/github-stats/blob/main/generated/overview.svg" alt="GitHub 3D Contribution" />
-  </a>
-</p>
-
-> ⚠️ **Note:** These animations require GitHub Actions setup. The snake animation generates daily based on your contribution graph.
+> ⚠️ **Note:** Snake animation auto-generates daily at midnight UTC via GitHub Actions. First run may take a few minutes after setup.
 
 ---
 
