@@ -467,8 +467,15 @@ DevOps & CI/CD           ██████████████████�
 
 <p align="center">
   <a href="https://github.com/richkeyricks/richkeyrick-portfolio">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=richkeyricks&repo=richkeyrick-portfolio&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&border_radius=10" alt="Portfolio Repo"/>
+    <img src="https://img.shields.io/badge/🔗_RICHKEYRICK_PORTFOLIO-AI_Engineer_Portfolio-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="Portfolio Repo"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📁_TypeScript-45%25-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/📁_JavaScript-32%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/📁_CSS-16%25-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/📁_HTML-7%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
 </p>
 
 > 🚀 **Explore more repositories:** [github.com/richkeyricks](https://github.com/richkeyricks)
@@ -585,8 +592,18 @@ Richkeyrick envisions **Era Cahaya** — a civilization where:
 ### 📈 **GitHub Analytics**
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=richkeyricks&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=FF6B6B&text_color=FFFFFF&rank_icon=percentile&border_radius=10" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=richkeyricks&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8&border_radius=10" alt="Top Languages" width="48%"/>
+  <img src="https://img.shields.io/badge/⭐_Total_Stars-65+-FFD700?style=for-the-badge&logo=github&labelColor=1a1a2e" alt="Stars"/>
+  <img src="https://img.shields.io/badge/📁_Repositories-43+-00D4FF?style=for-the-badge&logo=github&labelColor=1a1a2e" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/👥_Followers-Growing-FF6B6B?style=for-the-badge&logo=github&labelColor=1a1a2e" alt="Followers"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🐍_Python-30%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/⚛️_React-25%25-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/📜_TypeScript-20%25-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/🟨_JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/🐘_PostgreSQL-5%25-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/🟢_Node.js-5%25-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
 </p>
 
 ---
